@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_action_posts"
+            android:checked="true"
+            android:icon="@drawable/ic_action_post"
+            android:title="@string/nav_action_posts" />
+        <item
+            android:id="@+id/nav_action_photos"
+            android:icon="@drawable/ic_action_photos"
+            android:title="@string/nav_action_photos" />
+    </group>
+</menu>

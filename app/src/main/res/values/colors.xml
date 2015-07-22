@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--This is material color which contains action bar color and status bar color (Lollipop)
+        Main Action Bar color of app define by  the app_color_primary
+        status bar color color of app define by the app_color_primary this is present in lollipop devices
+        accent color mainly define the color control of views like (edittext and textview etc..)
+       -->
+    <color name="app_color_primary">@color/primary</color>
+    <color name="app_color_primary_dark">@color/primary_dark</color>
+    <color name="app_color_accent">@color/accent</color>
+    <color name="deep_green_700_alpha_50">#80388E3C</color>
+    <color name="app_background_color">#ffffffff</color>
+
+
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+
+    <color name="accent">#ff5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+
+</resources>

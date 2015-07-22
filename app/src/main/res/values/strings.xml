@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SupportDesignExample</string>
+
+    <string name="nav_action_posts">Posts</string>
+    <string name="nav_action_photos">Photos</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="empty_list">No Data found !</string>
+    <string name="app_developer_name">TheLittleNaruto</string>
+    <string name="title_activity_comments">Comments</string>
+</resources>
